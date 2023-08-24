@@ -1,0 +1,9 @@
+---
+name: JapaneseBlock
+version: 0.0.1
+main: Lyrica0954\JapaneseBlock\Main
+api: 5.0.0
+src-namespace-prefix: Lyrica0954\JapaneseBlock
+depend:
+  - Customies
+...
